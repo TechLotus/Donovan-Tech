@@ -4,4 +4,4 @@
 
 25/09/2025 - Foi feito hoje o começo do projeto do cartaz de fato, com todas as informações necessárias sobre IOMT resumidas de maneira simples para fácil entendimento, ainda não possui a pesquisa feita, porém o corpo e o design estão devidamente definidos.
 
-25/09/2025 - Slides com as pesquisas feitas através do grupo do whatsapp foram produzidos. Aparentemente prontos, nenhum erro notado.
+25/09/2025 - Slides com as pesquisas feitas através do grupo do whatsapp foram produzidos. Aparentemente prontos, nenhum erro notado. 19:26 - Foi adicionado o cartaz já feito anteriormente, agora com um qr code direcionando aos slides terminados hoje.
